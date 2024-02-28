@@ -1,0 +1,7 @@
+# Order is important; the last matching pattern takes the most precedence
+
+# global owners
+*       @nahuseyoum @alexpArtos @thadouk @Aventus-Network-Services/systems
+
+# CI OWNERS
+/.github/ @Aventus-Network-Services/devops
